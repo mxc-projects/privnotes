@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Privnote By Hoxedzik666</title>
+        <title>Privnote By Hoxedzik666 / @devilprojects_pl</title>
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
