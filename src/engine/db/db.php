@@ -58,4 +58,5 @@ class database {
         $pdo = null;
     }
 }
+
 ?>
